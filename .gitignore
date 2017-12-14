@@ -1,0 +1,11 @@
+# compiled output
+/[Bb]in
+/[Oo]bj
+/[Dd]ebug
+
+# IDE - VSCode
+.vscode
+
+# System Files
+.DS_Store
+Thumbs.db
